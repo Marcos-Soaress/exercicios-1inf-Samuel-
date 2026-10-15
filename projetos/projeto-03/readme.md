@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🥟 Projeto 03 — Salgaderia Tentação
+# [🥟 Projeto 03 — Salgaderia Tentação](https://github.com/sudosamm/projeto-03-salgaderia-tentacao/tree/main)
 
 ### Reproduza uma página a partir do modelo apresentado pelo cliente
 
